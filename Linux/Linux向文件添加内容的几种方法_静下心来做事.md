@@ -1,0 +1,1 @@
+## [Linux向文件添加内容的几种方法_静下心来做事](https://blog.csdn.net/weixin_41168353/article/details/81879389)
