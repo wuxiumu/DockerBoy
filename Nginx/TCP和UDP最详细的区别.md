@@ -8,7 +8,7 @@ udp就象寄一封信，发信者只管发，不管到。但是你的信封上�
  发信者和收信者之间没有通路，靠邮电局联系。信发到时可能已经过了很久，也可
  能根本没有发到。先发的信未必先到，后发的也未必后到。
 
-说的很简单，具体的东西当然很复杂。但是java把所有的操作都封装好了，用起
+ 说的很简单，具体的东西当然很复杂。但是java把所有的操作都封装好了，用起
  来到挺方便的
 
 TCP---[传输控制协议](https://links.jianshu.com/go?to=https%3A%2F%2Fwww.baidu.com%2Fs%3Fwd%3D%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE%26tn%3DSE_PcZhidaonwhc_ngpagmjz%26rsv_dl%3Dgh_pc_zhidao),提供的是面向连接、可靠的字节流服务。当客户和服务器彼此交换数据前，必须先在双方之间建立一个TCP连接，之后才能传输数据。TCP提供超时重发，丢弃重复数据，检验数据，[流量控制](https://links.jianshu.com/go?to=https%3A%2F%2Fwww.baidu.com%2Fs%3Fwd%3D%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6%26tn%3DSE_PcZhidaonwhc_ngpagmjz%26rsv_dl%3Dgh_pc_zhidao)等功能，保证数据能从一端传到另一端。
