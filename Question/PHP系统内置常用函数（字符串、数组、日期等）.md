@@ -35,7 +35,7 @@ unserialize(); // 从已存储的表示中创建PHP的值
 ### 四、字符串处理函数
 
 ```php
-explode(); // 使用一个字符串分割另一个字符串
+explode(); // 使用一个字符串分割另一个数组
 implode(); // 将一个以为数组的值转化为字符串
 join();    // 别名 implode()
 strrev();  // 反转字符串
