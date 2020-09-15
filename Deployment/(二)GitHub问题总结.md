@@ -149,3 +149,6 @@ git clone ssh://git@116.196.115.98:22/home/git/api.nbdon.com
 git remote add origin ssh://git@116.196.115.98:22/home/git/api.nbdon.com
 ```
 
+git push origin --delete dev4
+
+​	git branch -d
