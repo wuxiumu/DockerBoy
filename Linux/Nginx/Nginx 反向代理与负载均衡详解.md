@@ -13,7 +13,7 @@ error_page 404 https://www.runnob.com; #错误页
 proxy_intercept_errors on;    #如果被代理服务器返回的状态码为400或者大于400，设置的error_page配置起作用。默认为off。
 ```
 
-2、如果我们的代理只允许接受get，post请求方法的一种
+ 2、如果我们的代理只允许接受get，post请求方法的一种
 
 ```
 proxy_method get;    #支持客户端的请求方法。post/get；
@@ -37,7 +37,7 @@ proxy_http_version 1.0 ; #Nginx服务器提供代理服务的http协议版本1.0
 proxy_connect_timeout 1;   #nginx服务器与被代理的服务器建立连接的超时时间，默认60秒
 proxy_read_timeout 1; #nginx服务器想被代理服务器组发出read请求后，等待响应的超时间，默认为60秒。
 proxy_send_timeout 1; #nginx服务器想被代理服务器组发出write请求后，等待响应的超时间，默认为60秒。
-proxy_ignore_client_abort on;  #客户端断网时，nginx服务器是否终端对被代理服务器的请求。默认为off。
+proxy_ignore_client_abort on;  #客户端断网时，2。默认为off。
 ```
 
 5、如果使用upstream指令配置啦一组服务器作为被代理服务器，服务器中的访问算法遵循配置的负载均衡规则，同时可以使用该指令配置在发生哪些异常情况时，将请求顺次交由下一组服务器处理。
@@ -59,7 +59,7 @@ proxy_next_upstream timeout;  #反向代理upstream中设置的服务器组，�
 ```
 proxy_set_header Host $host; #只要用户在浏览器中访问的域名绑定了 VIP VIP 下面有RS；则就用$host ；host是访问URL中的域名和端口  www.taobao.com:80
 proxy_set_header X-Real-IP $remote_addr;  #把源IP 【$remote_addr,建立HTTP连接header里面的信息】赋值给X-Real-IP;这样在代码中 $X-Real-IP来获取 源IP
-proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;#在nginx 作为代理服务器时，设置的IP列表，会把经过的机器ip，代理机器ip都记录下来，用 【，】隔开；代码中用 echo $x-forwarded-for |awk -F, '{print $1}' 来作为源IP
+proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;#在nginx 作为代理服务器时，设置的IP列表，会把经过的机器ip，代理机器ip都记录下来，用 33隔开；代码中用 echo $x-forwarded-for |awk -F, '{print $1}' 来作为源IP
 ```
 
 关于X-Forwarded-For与X-Real-IP的一些相关文章可以查看：[HTTP 请求头中的 X-Forwarded-For](https://www.runoob.com/w3cnote/http-x-forwarded-for.html) 。

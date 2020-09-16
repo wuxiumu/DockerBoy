@@ -249,3 +249,11 @@ TMPDIR 如果设置成目录名,shell会将其作为临时文件目录
 UID 当前用户的真实用户ID(数字形式)
 ```
 
+## runoob
+
+- [Linux chgrp 命令](https://www.runoob.com/linux/linux-comm-chgrp.html)
+- [Linux chown 命令](https://www.runoob.com/linux/linux-comm-chown.html)
+- [Linux chmod 命令](https://www.runoob.com/linux/linux-comm-chmod.html)
+
+- chown (change ownerp) ： 修改所属用户与组。
+- chmod (change mode) ： 修改用户的权限。
