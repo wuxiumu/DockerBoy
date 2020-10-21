@@ -70,7 +70,7 @@ SWOT Analysis: 对一个组织、项目或备选方案的优势、劣势、机�
 
 ​    
 
-# WbS 项目工作分解结构
+# WBS 项目工作分解结构
 
 - **abbr.**(=west by south)西偏南
 

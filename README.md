@@ -18,3 +18,14 @@
 - [深入剖析Kubernetes 极客时间](https://time.geekbang.org/column/intro/116)
 - Kubernetes权威指南(书籍)
 - Kubernetes in Action中文版(书籍)
+
+##  纸书，pdf电纸书，markdown文件
+
+书分享，笔记，记录
+
+二维码记录
+
+B站视频
+
+golang,区块链技术
+
