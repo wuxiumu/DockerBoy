@@ -14,19 +14,19 @@
 
    他们被制止去买在动物身上做过实验的产品。
 
-   shanbay.com
+    
 
 2. The Featured Documents page for each product can be reached from the front page of the IBM Support Web site for that product. 
 
    可以通过每个产品的IBMSupport网站首页访问该产品的“特色文档”页面。
 
-   www.ibm.com
+    
 
 3. About a year after launching Ultimate Arena, the team re-launched the company as Xfire, with the new IM service as the core product. 
 
    发布了1年以后，团队以Xfire的名字重新出现，新的即时通讯产品作为他们的核心产品。
 
-   article.yeeyan.org
+    
 
 4. Conveying the processes and requirements necessary to produce a safe product by U. S. standards is 'a clear challenge, ' he says. 
 
