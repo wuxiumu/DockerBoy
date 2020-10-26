@@ -10,7 +10,7 @@
 - 词形：
 
 - changes
-- changing
+- changings
 - changed
 
 1. Any change to a database and every application using it had to be updated, individually. 
