@@ -17,25 +17,25 @@
 
    工作并不累，但我感到厌倦，缺乏睡眠是一直不变的感觉，每次下班回来，贪婪的沉沉入睡。
 
-   iask.sina.com.cn
+    
 
 2. Searching for witnesses, he discovered a pale, nervous young man in work clothes who claimed he was an eyewitness. 
 
    寻找证人，他发现了一个面色苍白，紧张工作的年轻人在衣服谁声称他是一名目击者。
 
-   women.zhishi.sohu.com
+    
 
 3. He is often found on the premises, either lingering in the rooms or tooling away in the large and rustic work studio in the back. 
 
    他经常出没在建筑里，不是流连于各个房间，就是在后边的大乡村工作室里忙着。
 
-   www.ecocn.org
+    
 
 4. If you pay with cash, you're giving up the opportunity to put that money to work for you for the rest of your life. 
 
    如果你用现金消费，你就失去了在未来的生活中使用它们的机会。
 
-   article.yeeyan.org
+    
 
 工作包 Work Package: 工作分解结构最低层的工作,针对这些工作来估算并管理成本和持续时间。
 
